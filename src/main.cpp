@@ -116,8 +116,8 @@ int main() {
           // for cars in the future, and then determining a lane change and/or velocity change.
 
           // Setting
-          double front_distance = 25.0;
-          double back_distance = 15.0;
+          double front_distance = 30.0;
+          double back_distance = 20.0;
           double max_speed = 49.5;
 
           // Predict lane status in front and in back field of view:
